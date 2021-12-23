@@ -19,3 +19,14 @@
     --inprogress: #1795ce;
 }
 /*Fim paleta de cores*/
+/*Classes de reset do projeto*/
+body{
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+.container{
+    position: relative;
+    width: 100%;
+}
+/*Fim classes de reset do projeto*/
